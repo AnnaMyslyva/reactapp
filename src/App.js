@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Weather from "./Weather.js";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           <Weather city="Oslo" />
         </p>
       </header>
+      <Footer />
     </div>
   );
 }
