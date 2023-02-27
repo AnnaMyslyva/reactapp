@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="Footer">
       <p>
         <a
-          href="https://github.com/AnnaMyslyva/SearchEngine"
+          href="https://github.com/AnnaMyslyva/reactapp"
           target="_blank"
           rel="noreferrer"
           title="Open-source Code"
